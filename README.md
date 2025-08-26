@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Vitor
 
-<!--
-**Vitor-Santanna/Vitor-Santanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no início da minha jornada na área de tecnologia. Em transição de carreira, venho me dedicando à construção de uma base sólida em programação, com foco em desenvolvimento web (front-end e back-end).
 
-Here are some ideas to get you started:
+Tenho grande interesse em projetos que envolvam inovação, tecnologia e sustentabilidade — e acredito no poder do código para transformar ideias em soluções com impacto positivo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Atualmente estou estudando:
+- Lógica de Programação
+- HTML, CSS e JavaScript
+- Git e GitHub
+- Banco de Dados (SQL)
+- Estruturas de Dados
+
+## 💡 Interesses:
+- Desenvolvimento Web
+- Tecnologias Sustentáveis
+- Inovação e Impacto Social
+- Aprendizado Contínuo
+
+## 🌱 Em desenvolvimento:
+- Projetos pessoais simples para praticar lógica e web
+- Repositórios com anotações e exercícios de estudos
+
+## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-sant-anna-92949137b/)
